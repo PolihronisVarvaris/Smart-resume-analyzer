@@ -24,8 +24,6 @@ An AI-powered web application that analyzes resumes and provides actionable feed
 
 ![Application Demo](img/gnghn.png)
 
-*Live demo: [Add your deployment link here]*
-
 ##  Tech Stack
 
 **Frontend:**
